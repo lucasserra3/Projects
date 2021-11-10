@@ -1,0 +1,167 @@
+.App-header {
+  background-image: url("fondo.png") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.imageOne {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+
+.imageOne:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+
+.imageTwo {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+
+.imageTwo:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+.imageThree {
+  width: 400px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+.imageThree:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+.imageFour {
+  width: 500px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+.imageFour:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+.imageFive {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+ 
+}
+.imageFive:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+
+.imageSix {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+
+.imageSix:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+
+.imageSeven {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+
+.imageSeven:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+
+.imageEight {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+
+.imageEight:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+
+.imageNine {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+
+.imageNine:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+
+.imageTen {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 350px;
+  margin-top: 150px;
+  
+}
+
+.imageTen:hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transform: scale(1.3, 1.3)
+}
+
+
+

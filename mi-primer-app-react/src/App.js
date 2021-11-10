@@ -19,7 +19,6 @@ import derecha from "./FLECHADER.png";
 
 const MyCarousel = () => (
   <Carousel plugins={['arrows']}>
-    
     <img src={imageOne} className="imageOne"/>
     <img src={imageTwo} className="imageTwo"/>
     <img src={imageThree} className="imageThree"/>

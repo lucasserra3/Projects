@@ -37,7 +37,9 @@ function App() {
     <div className="App-header">
       <MyCarousel></MyCarousel>
     </div>
+    
   );
 }
+document.getElementById('root2')
 
 export default App;

@@ -40,6 +40,5 @@ function App() {
     
   );
 }
-document.getElementById('root2')
 
 export default App;

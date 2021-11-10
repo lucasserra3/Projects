@@ -12,8 +12,6 @@ import imageSeven from "./7.png"
 import imageEight from "./8.png"
 import imageNine from "./9.png"
 import imageTen from "./10.png"
-
-
 import izquierda from "./FLECHAIZQ.png";
 import derecha from "./FLECHADER.png";
 

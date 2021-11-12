@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import Carousel from '@brainhubeu/react-carousel';
 import '@brainhubeu/react-carousel/lib/style.css';
+
 import imageOne from "./1.png"
 import imageTwo from "./2.png"
 import imageThree from "./3.png"

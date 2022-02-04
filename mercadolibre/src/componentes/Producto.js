@@ -20,7 +20,6 @@ const Producto = ({
     setProcedio(!Procedio);
     onCompra(precio);
   }
-
   const texto2 = `${Procedio ? "Success" : ""}`;
   return (
     <Card onClick={onClick} selected={selected}>

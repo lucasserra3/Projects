@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import Carousel from '@brainhubeu/react-carousel';
 import '@brainhubeu/react-carousel/lib/style.css';
+
 import imageOne from "./1.png"
 import imageTwo from "./2.png"
 import imageThree from "./3.png"
@@ -12,23 +13,21 @@ import imageSeven from "./7.png"
 import imageEight from "./8.png"
 import imageNine from "./9.png"
 import imageTen from "./10.png"
-import izquierda from "./FLECHAIZQ.png";
-import derecha from "./FLECHADER.png";
 
 
 
 const MyCarousel = () => (
   <Carousel plugins={['arrows']}>
-    <img src={imageOne} className="imageOne"/>
-    <img src={imageTwo} className="imageTwo"/>
-    <img src={imageThree} className="imageThree"/>
-    <img src={imageFour} className="imageFour"/>
-    <img src={imageFive} className="imageFive"/>
-    <img src={imageSix} className="imageSix"/>
-    <img src={imageSeven} className="imageSeven"/>
-    <img src={imageEight} className="imageEight"/>
-    <img src={imageNine} className="imageNine"/>
-    <img src={imageTen} className="imageTen"/>
+    <img src={imageOne} className="imageOne" alt="imageOne"/>
+    <img src={imageTwo} className="imageTwo" alt="imageTwo"/>
+    <img src={imageThree} className="imageThree" alt="imageThree"/>
+    <img src={imageFour} className="imageFour" alt="imageFour"/>
+    <img src={imageFive} className="imageFive" alt="imageFive"/>
+    <img src={imageSix} className="imageSix" alt="imageSix"/>
+    <img src={imageSeven} className="imageSeven" alt="imageSeven"/>
+    <img src={imageEight} className="imageEight" alt="imageEight"/>
+    <img src={imageNine} className="imageNine" alt="imageNine"/>
+    <img src={imageTen} className="imageTen" alt="imageTen"/>
   </Carousel>
 );
 
